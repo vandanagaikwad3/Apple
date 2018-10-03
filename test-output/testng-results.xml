@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="45" passed="45">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18426" started-at="2018-10-03T23:05:19Z" finished-at="2018-10-03T23:05:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18426" started-at="2018-10-03T23:05:19Z" finished-at="2018-10-03T23:05:38Z">
+      <class name="REST_HTTPCLIENT.HttpClient_automation.ApiTesting">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="beforeSuite" is-config="true" duration-ms="55" started-at="2018-10-03T16:05:19Z" finished-at="2018-10-03T16:05:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="beforeClass" is-config="true" duration-ms="3354" started-at="2018-10-03T16:05:19Z" finished-at="2018-10-03T16:05:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="60" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[de]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="6" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="2" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="3" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="8" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ru]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="14" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="15" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="4" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[be-fr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="5" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="8" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="9" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="11" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch-de]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="2" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="9" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="14" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="14" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[br]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="14" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hk-zh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="12" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[se]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="2" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="16" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="100" started-at="2018-10-03T16:05:36Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch-fr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="5" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[be-nl]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="2" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[id]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="19" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="28" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ca]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="12" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="10" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ae]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="5" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="9" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="2" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[it]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="13" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mx]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="17" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[my]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="5" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[es]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="3" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="7" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[th-en]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="16" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[at]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="13" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[au]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="5" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[th]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="9" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="5" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ph]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="15" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="11" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pl]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="4" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nl]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="country_status_y(java.lang.String)[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="country_status_y" duration-ms="5" started-at="2018-10-03T16:05:37Z" data-provider="test" finished-at="2018-10-03T16:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_status_y -->
+        <test-method status="PASS" signature="getStatusTest()[pri:0, instance:REST_HTTPCLIENT.HttpClient_automation.ApiTesting@4cc0edeb]" name="getStatusTest" duration-ms="776" started-at="2018-10-03T16:05:37Z" finished-at="2018-10-03T16:05:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatusTest -->
+      </class> <!-- REST_HTTPCLIENT.HttpClient_automation.ApiTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
